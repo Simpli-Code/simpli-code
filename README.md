@@ -17,6 +17,7 @@ My name is Chaman. I'm currently studying at 42Vienna. I'm passionate about the 
 🤓   #CProgramming Enthusiast
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simpli-Code)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/simpli__me/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simpli-Code)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpli-Code&show_icons=true)  
 
