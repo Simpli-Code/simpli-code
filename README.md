@@ -16,11 +16,19 @@ My name is Chaman. I'm currently studying at 42Vienna. I'm passionate about the 
 
 🤓   #CProgramming Enthusiast
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simpli-Code)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/simpli__me/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simpli-Code)  
+<h3 align="center">A passionate frontend developer from India</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpli-Code&show_icons=true)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simpli-code&label=Profile%20views&color=0e75b6&style=flat" alt="simpli-code" /> </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Simpli-Code)  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simpli-code" alt="simpli-code" /></a> </p>
 
-![Profile views](https://gpvc.arturio.dev/Simpli-Code)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/simpli--me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simpli--me" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s" height="30" width="40" /></a>
+<a href="https://instagram.com/simpli__me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simpli__me" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
