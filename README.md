@@ -7,6 +7,7 @@ My name is Chaman. I'm currently studying at 42Vienna. I'm passionate about the 
 
 ## Skills and Experience
 
+![image](https://github.com/Simpli-Code/simpli-code/assets/74283859/f0c7670d-52ca-4f5c-8bf0-99cb710239c8)
 
 🚀   #CodeExplorer
 
