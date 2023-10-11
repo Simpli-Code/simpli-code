@@ -20,3 +20,8 @@ My name is Chaman. I'm currently studying at 42Vienna. I'm passionate about the 
 <p align="left">
 <a href="https://twitter.com/simpli__me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simpli__me" height="30" width="40" /></a>
 <a href="https://instagram.com/simpli__me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simpli__me" height="30" width="40" /></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simpli-Code)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpli-Code&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Simpli-Code)  
