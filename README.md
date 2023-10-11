@@ -16,8 +16,6 @@ My name is Chaman. I'm currently studying at 42Vienna. I'm passionate about the 
 
 🤓   #CProgramming Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simpli-code&label=Profile%20views&color=0e75b6&style=flat" alt="simpli-code" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/simpli--me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simpli--me" height="30" width="40" /></a>
