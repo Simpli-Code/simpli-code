@@ -1,4 +1,4 @@
-![image](https://github.com/JCR-Codes/JCR-Codes/assets/74283859/68146463-03be-4319-a9fb-075eb4e08612)
+![image](https://github.com/Simpli-Code/Simpli-Code/assets/74283859/68146463-03be-4319-a9fb-075eb4e08612)
 
 # Hi there 👋
 
