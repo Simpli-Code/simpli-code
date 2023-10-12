@@ -23,4 +23,11 @@ I'm currently studying at 42Vienna and I'm passionate about the world of coding 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpli-Code&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Simpli-Code)  
+[![](https://visitcount.itsvg.in/api?id=Simpli-Code&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+Copy
+HTML / Framework code
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Simpli-Code&label=Profile%20Views&pretty=false" />
+</a>
+Copy
+
