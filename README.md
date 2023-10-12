@@ -3,7 +3,10 @@
 
 # Hi there 👋
 
-I'm currently studying at 42Vienna and I'm passionate about the world of coding and currently on an exciting journey of learning the C language. 🖥️ I thrive on the challenges that come with it, especially the thrill of hunting down and squashing those pesky bugs 🐞 that occasionally sneak into my code. 🕵️‍♂️ I'm committed to continue to learn and grow in the ever-evolving realm of software development. 
+I'm currently studying at 42Vienna and I'm passionate about the world of coding and currently on an exciting journey of 
+learning the C language. 🖥️ I thrive on the challenges that come with it, especially the thrill of hunting down and 
+squashing those pesky bugs 🐞 that occasionally sneak into my code. 🕵️‍♂️ I'm committed to continue to learn and grow 
+in the ever-evolving realm of software development. 
 
 ## Skills and Experience
 
