@@ -20,8 +20,8 @@ to continue to learn and grow in the ever-evolving realm of software development
 🤓   #CProgramming Enthusiast
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+
+[<img]src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simpli-Code) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpli-Code&show_icons=true)  
 
