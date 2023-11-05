@@ -23,7 +23,6 @@ to continue to learn and grow in the ever-evolving realm of software development
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simpli-Code)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@me)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://web.telegram.org/k/) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpli-Code&show_icons=true)  
 
