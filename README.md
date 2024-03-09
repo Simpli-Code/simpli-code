@@ -10,7 +10,7 @@ to continue to learn and grow in the ever-evolving realm of software development
 
 ## Skills and Experience
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://de.wikipedia.org/wiki/Datei:ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="c" width="40" height="40"/> </a> </p> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="[https://de.wikipedia.org/wiki/Datei:ISO_C%2B%2B_Logo.svg](https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg)" alt="cpp" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="c" width="40" height="40"/> </a> </p> 
 
 🚀   #CodeExplorer
 
