@@ -11,7 +11,6 @@ to continue to learn and grow in the ever-evolving realm of software development
 ## Skills and Experience
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-![image](https://github.com/Simpli-Code/simpli-code/assets/74283859/2631ac34-bdaf-4be3-8895-229e8c4e28a8)
 
 
 🚀   #CodeExplorer
