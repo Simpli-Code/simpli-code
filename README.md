@@ -24,5 +24,3 @@ to continue to learn and grow in the ever-evolving realm of software development
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@me)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpli-Code&show_icons=true)  
-
-[![](https://visitcount.itsvg.in/api?id=Simpli-Code&label=Profile%20Views&color=12&icon=0&pretty=false)]
